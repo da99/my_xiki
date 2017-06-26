@@ -1,0 +1,11 @@
+libXt-devel
+xforms-devel
+gtk+-devel
+librsvg-devel
+gpm-devel
+giflib-devel
+libxpm
+libotf-devel
+GConf-devel
+libmagick-devel
+gnutls-devel
