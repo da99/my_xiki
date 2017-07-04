@@ -4,8 +4,19 @@ gtk+-devel
 librsvg-devel
 gpm-devel
 giflib-devel
-libxpm
 libotf-devel
 GConf-devel
 libmagick-devel
 gnutls-devel
+ncurses-devel
+libXaw-devel
+gtk+-devel
+gtk+3-devel
+webkitgtk-devel
+dbus-devel
+acl-devel
+libjpeg-turbo-devel tiff-devel
+giflib-devel libpng-devel libXpm-devel
+librsvg-devel libmagick-devel
+libxml2-devel gnutls-devel
+alsa-lib-devel
